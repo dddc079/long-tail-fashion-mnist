@@ -1,0 +1,8 @@
+# 运行环境：Python 3.13，CPU 即可（本实验全部在无 GPU 机器上完成）
+torch>=2.5
+torchvision>=0.20
+numpy>=2.0
+pandas>=2.2
+matplotlib>=3.8
+scikit-learn>=1.4
+python-docx>=1.1

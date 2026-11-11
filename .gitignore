@@ -1,0 +1,28 @@
+# 数据集：体积大且可重新下载，不入库
+data/raw/
+data/*.zip
+
+# 中间产物
+build/tmp/
+build/preview/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 运行日志
+logs_*.txt
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# WorkBuddy 本地工作目录
+.workbuddy/
+
+# Office 临时锁文件
+~$*.docx
